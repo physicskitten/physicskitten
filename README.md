@@ -9,3 +9,5 @@ When I'm not struggling with advanced mechanics or debugging very simple code, I
 [![French](https://d35aaqx5ub95lt.cloudfront.net/images/flags/FR.svg)](https://www.duolingo.com/profile/plm786)
 [![Chinese](https://d35aaqx5ub95lt.cloudfront.net/images/flags/CN.svg)](https://www.duolingo.com/profile/plm786)
 
+[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/plm786)
+[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/plm786)
