@@ -6,6 +6,6 @@ When I'm not struggling with advanced mechanics or debugging very simple code, I
 
 ## 🌱 Non-Coding Languages I'm Learning
 
-[![French](https://d35aaqx5ub95lt.cloudfront.net/images/flags/ic_flag_france.png)](https://www.duolingo.com/profile/plm786)
-[![Chinese](https://d35aaqx5ub95lt.cloudfront.net/images/flags/ic_flag_china.png)](https://www.duolingo.com/profile/plm786)
+[![French](https://d35aaqx5ub95lt.cloudfront.net/images/flags/FR.svg)](https://www.duolingo.com/profile/plm786)
+[![Chinese](https://d35aaqx5ub95lt.cloudfront.net/images/flags/CN.svg)](https://www.duolingo.com/profile/plm786)
 
