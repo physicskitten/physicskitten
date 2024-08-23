@@ -1,5 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="82px" height="66px" viewBox="0 0 82 66">
-  <path fill="#0055A4" d="M0 0h27.33v66H0z"/>
-  <path fill="#FFF" d="M27.33 0h27.34v66H27.33z"/>
-  <path fill="#EF4135" d="M54.67 0h27.33v66H54.67z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="462"
+  width="82px" height="66px" viewBox="0 0 82 66" version="1.1">
+  <title>French Flag</title>
+  <g id="French-Flag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <!-- Blue Stripe -->
+    <path fill="#002495" d="M0 0h27v66H0z"/>
+    <!-- White Stripe -->
+    <path fill="#FFFFFF" d="M27 0h28v66H27z"/>
+    <!-- Red Stripe -->
+    <path fill="#ED2939" d="M55 0h27v66H55z"/>
+  </g>
 </svg>
