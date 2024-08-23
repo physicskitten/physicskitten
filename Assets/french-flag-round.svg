@@ -12,11 +12,11 @@
       <!-- Apply clipping path to color rectangles -->
       <g clip-path="url(#boundaryClip)">
         <!-- Blue Rectangle -->
-        <rect x="0" y="-4" width="27.33" height="60" fill="#0033A0" />
+        <rect x="0" y="-4" width="27.33" height="60" fill="#2C6B9D" />
         <!-- White Rectangle -->
         <rect x="22" y="-4" width="26.33" height="60" fill="#edebeb" />
         <!-- Red Rectangle -->
-        <rect x="45.63" y="-4" width="26.33" height="60" fill="#C8102E" />
+        <rect x="45.63" y="-4" width="26.33" height="60" fill="#E94F5F" />
       </g>
       <!-- Boundary Path (Drawn on top to outline the clipping) -->
       <path
