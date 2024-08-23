@@ -10,5 +10,5 @@ When I'm not struggling with advanced mechanics or debugging very simple code, I
 - Presentation of data and analyses
 
 ### 🪴 Non-Coding Languages
-[![french flag](![image](https://github.com/user-attachments/assets/82ee1510-a82d-4ee7-a0bf-9dda2ec095bb))](https://www.duolingo.com/profile/plm786)
+[![french flag](Assets/french-flag-round.svg)](https://www.duolingo.com/profile/plm786)
 [![chinese flag](Assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/plm786)
