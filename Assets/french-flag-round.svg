@@ -5,16 +5,16 @@
     <g id="Group-3" transform="translate(6.000000, 6.000000)">
       <!-- Blue Stripe -->
       <path
-        d="M-2,0 L-2,56 L27.6666667,56 L27.6666667,0 L-2,0 Z"
-        id="Rectangle-1" stroke="#FFFFFF" stroke-width="4" fill="#0055A4" />
+        d="M-2,0 C-2,-2.67 -0.67,-4 -2,0 L-2,56 C-2,56.67 -0.67,56 -2,56 L27.67,56 C27.67,56 -2,56.67 -2,56 L-2,0 Z"
+        id="Rectangle-1" stroke="#FFFFFF" stroke-width="4" fill="#0055A4" rx="8" ry="8" />
       <!-- White Stripe -->
       <path
-        d="M27.6666667,0 L27.6666667,56 L56.3333333,56 L56.3333333,0 L27.6666667,0 Z"
-        id="Rectangle-2" stroke="#FFFFFF" stroke-width="4" fill="#FFFFFF" />
+        d="M27.67,0 C27.67,-2.67 29.33,-4 27.67,0 L27.67,56 C27.67,56.67 29.33,56 27.67,56 L56.33,56 C56.33,56 27.67,56.67 27.67,56 L27.67,0 Z"
+        id="Rectangle-2" stroke="#FFFFFF" stroke-width="4" fill="#FFFFFF" rx="8" ry="8" />
       <!-- Red Stripe -->
       <path
-        d="M56.3333333,0 L56.3333333,56 L86,56 L86,0 L56.3333333,0 Z"
-        id="Rectangle-3" stroke="#FFFFFF" stroke-width="4" fill="#EF4135" />
+        d="M56.33,0 C56.33,-2.67 58,-4 56.33,0 L56.33,56 C56.33,56.67 58,56 56.33,56 L86,56 C86,56 56.33,56.67 56.33,56 L56.33,0 Z"
+        id="Rectangle-3" stroke="#FFFFFF" stroke-width="4" fill="#EF4135" rx="8" ry="8" />
     </g>
   </g>
 </svg>
