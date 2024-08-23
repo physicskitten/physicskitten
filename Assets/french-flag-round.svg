@@ -14,7 +14,7 @@
         <!-- Blue Rectangle -->
         <rect x="0" y="-4" width="27.33" height="60" fill="#0000FF" />
         <!-- White Rectangle -->
-        <rect x="22" y="-4" width="25.33" height="60" fill="#FFFFFF" />
+        <rect x="22" y="-4" width="26.33" height="60" fill="#FFFFFF" />
         <!-- Red Rectangle -->
         <rect x="44.33" y="-4" width="27.33" height="60" fill="#FF0000" />
       </g>
