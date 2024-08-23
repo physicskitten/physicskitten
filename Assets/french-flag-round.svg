@@ -11,10 +11,12 @@
     <g id="Group-3" transform="translate(6.000000, 6.000000)">
       <!-- Apply clipping path to color rectangles -->
       <g clip-path="url(#boundaryClip)">
-        <!-- Blue Rectangle on the Left Half -->
-        <rect x="0" y="-4" width="41" height="60" fill="#0000FF" />
-        <!-- Red Rectangle on the Right Half -->
-        <rect x="41" y="-4" width="41" height="60" fill="#FF0000" />
+        <!-- Blue Rectangle on the Left Third -->
+        <rect x="0" y="-4" width="27.33" height="60" fill="#0000FF" />
+        <!-- White Rectangle in the Center Third -->
+        <rect x="27.33" y="-4" width="27.33" height="60" fill="#FFFFFF" />
+        <!-- Red Rectangle on the Right Third -->
+        <rect x="54.66" y="-4" width="27.33" height="60" fill="#FF0000" />
       </g>
       <!-- Boundary Path (Drawn on top to outline the clipping) -->
       <path
