@@ -2,10 +2,10 @@
   <title>fr</title>
   <g id="fr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
     <!-- Light Grey Background -->
-    <rect width="72" height="56" fill="#F0F0F0"/>
-    <!-- Blue Stripe with Rounded Corners -->
-    <rect x="0" y="0" width="24" height="56" rx="10" ry="10" fill="#0055A4"/>
-    <!-- Red Stripe with Rounded Corners -->
-    <rect x="48" y="0" width="24" height="56" rx="10" ry="10" fill="#EF4135"/>
+    <rect width="72" height="56" fill="#F5F5F5" rx="10" ry="10"/>
+    <!-- Blue Section -->
+    <rect x="0" y="0" width="24" height="56" fill="#0055A4" rx="10" ry="10"/>
+    <!-- Red Section -->
+    <rect x="48" y="0" width="24" height="56" fill="#EF4135" rx="10" ry="10"/>
   </g>
 </svg>
