@@ -5,9 +5,6 @@ I am a Bsc Physics student at Queen Mary University of London interested in crea
 When I'm not struggling with advanced mechanics or debugging very simple code, I love to go hiking 🏞️, read about Greek and Roman history 📚, and play piano 🎹. 
 
 ## 🌱 Non-Coding Languages I'm Learning
+[![french flag](Assets/french-flag-round.svg)](https://www.duolingo.com/profile/plm786)
+[![chinese flag](Assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/plm786)
 
-[![French](https://d35aaqx5ub95lt.cloudfront.net/images/flags/FR.svg)](https://www.duolingo.com/profile/plm786)
-[![Chinese](https://d35aaqx5ub95lt.cloudfront.net/images/flags/CN.svg)](https://www.duolingo.com/profile/plm786)
-
-[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/plm786)
-[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/plm786)
