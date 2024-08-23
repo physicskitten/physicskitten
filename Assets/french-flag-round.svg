@@ -1,11 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72px" height="56px" viewBox="0 0 72 56">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="462"
+     width="82px" height="66px" viewBox="0 0 82 66" version="1.1">
   <title>fr</title>
   <g id="fr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-    <!-- Light Grey Background -->
-    <rect width="72" height="56" fill="#F5F5F5" rx="10" ry="10"/>
-    <!-- Blue Section -->
-    <rect x="0" y="0" width="24" height="56" fill="#0055A4" rx="10" ry="10"/>
-    <!-- Red Section -->
-    <rect x="48" y="0" width="24" height="56" fill="#EF4135" rx="10" ry="10"/>
+    <g id="Group-3" transform="translate(6.000000, 6.000000)">
+      <!-- Blue stripe -->
+      <rect x="0" y="-2" width="24" height="58" fill="#0055A4" />
+      <!-- White stripe -->
+      <rect x="24" y="-2" width="24" height="58" fill="#FFFFFF" />
+      <!-- Red stripe -->
+      <rect x="48" y="-2" width="24" height="58" fill="#EF4135" />
+    </g>
   </g>
 </svg>
