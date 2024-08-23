@@ -13,10 +13,10 @@
       <g clip-path="url(#boundaryClip)">
         <!-- Blue Rectangle on the Left Third -->
         <rect x="0" y="-4" width="27.33" height="60" fill="#0000FF" />
-        <!-- White Rectangle, slightly moved to the left -->
-        <rect x="24.67" y="-4" width="27.33" height="60" fill="#FFFFFF" />
+        <!-- White Rectangle, slightly smaller and moved towards the blue -->
+        <rect x="22" y="-4" width="22.33" height="60" fill="#FFFFFF" />
         <!-- Red Rectangle on the Right Third -->
-        <rect x="52" y="-4" width="27.33" height="60" fill="#FF0000" />
+        <rect x="44.33" y="-4" width="27.33" height="60" fill="#FF0000" />
       </g>
       <!-- Boundary Path (Drawn on top to outline the clipping) -->
       <path
