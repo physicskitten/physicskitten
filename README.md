@@ -5,10 +5,10 @@ I am a BSc Physics student at Queen Mary University of London interested in crea
 When I'm not struggling with advanced mechanics or debugging very simple code, I love hiking 🏞️, reading about Greco-Roman history 📚, and playing piano 🎹. 
 
 ## 🌱 I'm Learning...
-### My Baby Projects
+### 🌿 My Baby Projects
 - Arduino controlled LED strip configurations
 - Presentation of data and analyses
 
-### Non-Coding Languages
+### 🪴 Non-Coding Languages
 [![french flag](Assets/french-flag-round.svg)](https://www.duolingo.com/profile/plm786)
 [![chinese flag](Assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/plm786)
