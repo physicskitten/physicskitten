@@ -16,7 +16,7 @@
         <!-- White Rectangle -->
         <rect x="22" y="-4" width="26.33" height="60" fill="#FFFFFF" />
         <!-- Red Rectangle -->
-        <rect x="44.33" y="-4" width="27.33" height="60" fill="#FF0000" />
+        <rect x="44.33" y="-4" width="26.33" height="60" fill="#FF0000" />
       </g>
       <!-- Boundary Path (Drawn on top to outline the clipping) -->
       <path
