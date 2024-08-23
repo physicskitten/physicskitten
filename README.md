@@ -6,6 +6,7 @@
 
 ## 🌱 I'm Learning...
 ### 🌿 My Baby Projects
+- Self taught python :)
 - Arduino controlled LED strip configurations
 - Presentation of data and analyses
 
