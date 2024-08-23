@@ -1,27 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="462"
-     width="82px" height="66px" viewBox="0 0 82 66" version="1.1">
-  <title>fr</title>
-  <g id="fr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-    <g id="Group-3" transform="translate(6.000000, 6.000000)">
-      <!-- Background with Rounded Corners -->
-      <path
-        d="M64,0 L8,0 C3.5,0 2.5,0.5 1,1.5 
-           C-0.5,2.5 -2,3.5 -2,8 
-           L-2,46 C-2,50.5 -0.5,51.5 1,52.5 
-           C2.5,53.5 3.5,54 8,54 
-           L64,54 C68.5,54 69.5,53.5 71,52.5 
-           C72.5,51.5 74,50.5 74,46 
-           L74,8 C74,3.5 72.5,2.5 71,1.5 
-           C69.5,0.5 68.5,0 64,0 Z"
-        id="Rounded-Rectangle" stroke="#FFFFFF" stroke-width="4" fill="#FFFFFF" />
-      
-      <!-- French Flag Colors: Blue, White, Red -->
-      <!-- Blue Stripe -->
-      <rect x="0" y="0" width="20" height="54" fill="#0055A4" />
-      <!-- White Stripe -->
-      <rect x="20" y="0" width="20" height="54" fill="#FFFFFF" />
-      <!-- Red Stripe -->
-      <rect x="40" y="0" width="20" height="54" fill="#EF4135" />
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="66" viewBox="0 0 82 66" version="1.1">
+  <g fill="none" fill-rule="evenodd">
+    <!-- The outer rectangle with rounded corners -->
+    <rect x="2" y="2" width="78" height="62" rx="10" ry="10" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4"/>
+    
+    <!-- The blue part of the flag -->
+    <rect x="6" y="6" width="20" height="54" fill="#0055A4"/>
+    
+    <!-- The white part of the flag -->
+    <rect x="26" y="6" width="20" height="54" fill="#FFFFFF"/>
+
+    <!-- The red part of the flag -->
+    <rect x="46" y="6" width="20" height="54" fill="#EF4135"/>
   </g>
 </svg>
