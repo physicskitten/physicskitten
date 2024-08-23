@@ -4,10 +4,10 @@
     <!-- Background with Rounded Corners -->
     <rect width="82" height="66" rx="6" ry="6" fill="#FFFFFF"/>
     <!-- Blue Stripe -->
-    <rect x="0" y="0" width="27.33" height="66" rx="6" ry="6" fill="#0055A4"/>
+    <rect x="0" y="0" width="27.33" height="66" fill="#0055A4"/>
     <!-- White Stripe -->
     <rect x="27.33" y="0" width="27.34" height="66" fill="#FFFFFF"/>
     <!-- Red Stripe -->
-    <rect x="54.67" y="0" width="27.33" height="66" rx="6" ry="6" fill="#EF4135"/>
+    <rect x="54.67" y="0" width="27.33" height="66" fill="#EF4135"/>
   </g>
 </svg>
