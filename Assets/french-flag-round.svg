@@ -1,14 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="462"
-     width="82px" height="66px" viewBox="0 0 82 66" version="1.1">
+  width="82px" height="66px" viewBox="0 0 82 66" version="1.1">
   <title>fr</title>
   <g id="fr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
     <g id="Group-3" transform="translate(6.000000, 6.000000)">
-      <!-- Blue stripe -->
-      <rect x="0" y="-2" width="24" height="58" fill="#0055A4" />
-      <!-- White stripe -->
-      <rect x="24" y="-2" width="24" height="58" fill="#FFFFFF" />
-      <!-- Red stripe -->
-      <rect x="48" y="-2" width="24" height="58" fill="#EF4135" />
+      <!-- French Flag Stripes -->
+      <rect x="-2" y="-2" width="28" height="60" fill="#0055A4" stroke="#FFFFFF" stroke-width="4"/>
+      <rect x="24" y="-2" width="28" height="60" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4"/>
+      <rect x="50" y="-2" width="28" height="60" fill="#EF4135" stroke="#FFFFFF" stroke-width="4"/>
+      
+      <!-- Duolingo Style Accent - a beret and a mustache as a French-themed icon -->
+      <g id="duolingo-style-accent" transform="translate(20, 20)">
+        <!-- Mustache -->
+        <path d="M10 12 C8 9, 4 9, 2 12 C1 13, 0 15, 2 15 C4 15, 6 15, 8 15 C10 15, 12 15, 14 15 C16 15, 17 13, 16 12 C14 9, 10 9, 10 12" 
+              fill="#4D4D4D"/>
+        <!-- Beret -->
+        <path d="M7 5 C7 2, 13 2, 13 5 C13 7, 10 7, 10 5" 
+              fill="#4D4D4D"/>
+      </g>
     </g>
   </g>
 </svg>
