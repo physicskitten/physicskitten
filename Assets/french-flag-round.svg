@@ -3,33 +3,25 @@
   <title>fr</title>
   <g id="fr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
     <g id="Group-3" transform="translate(6.000000, 6.000000)">
-      <!-- More Rectangular Background -->
+      <!-- Background with Rounded Corners -->
       <path
-        d="M58,-2 L12,-2 C7.5,-2 6.5,-1.5 5,-1 
-           C3.5,-0.5 2.5,0 1,1 
-           C0,2.5 -0.5,3.5 -1,5 
-           C-1.5,6.5 -2,7.5 -2,12 
-           L-2,42 C-2,46.5 -1.5,47.5 -1,49 
-           C-0.5,50.5 0,51.5 1,53 
-           C2.5,54.5 3.5,55 5,56 
-           C6.5,56.5 7.5,57 12,57 
-           L58,57 C62.5,57 63.5,56.5 65,56 
-           C66.5,55.5 67.5,54.5 69,53 
-           C70.5,51.5 71,50.5 71.5,49 
-           C72,47.5 72,46.5 72,42 
-           L72,12 C72,7.5 72,6.5 71.5,5 
-           C71,3.5 70.5,2.5 69,1 
-           C67.5,0 66.5,-0.5 65,-1 
-           C63.5,-1.5 62.5,-2 58,-2 Z"
+        d="M64,0 L8,0 C3.5,0 2.5,0.5 1,1.5 
+           C-0.5,2.5 -2,3.5 -2,8 
+           L-2,46 C-2,50.5 -0.5,51.5 1,52.5 
+           C2.5,53.5 3.5,54 8,54 
+           L64,54 C68.5,54 69.5,53.5 71,52.5 
+           C72.5,51.5 74,50.5 74,46 
+           L74,8 C74,3.5 72.5,2.5 71,1.5 
+           C69.5,0.5 68.5,0 64,0 Z"
         id="Rounded-Rectangle" stroke="#FFFFFF" stroke-width="4" fill="#FFFFFF" />
       
       <!-- French Flag Colors: Blue, White, Red -->
       <!-- Blue Stripe -->
-      <rect x="0" y="-2" width="24" height="58" fill="#0055A4" />
+      <rect x="0" y="0" width="20" height="54" fill="#0055A4" />
       <!-- White Stripe -->
-      <rect x="24" y="-2" width="24" height="58" fill="#FFFFFF" />
+      <rect x="20" y="0" width="20" height="54" fill="#FFFFFF" />
       <!-- Red Stripe -->
-      <rect x="48" y="-2" width="24" height="58" fill="#EF4135" />
+      <rect x="40" y="0" width="20" height="54" fill="#EF4135" />
     </g>
   </g>
 </svg>
