@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Victoria!
 
 ## 👩🏻‍💻 About Me
-- I am a BSc Physics student interested in creating delicious code aiding in improving experimental set ups as well as performing valuable analysis on the collected data. Coding is not my strongest suit but I adore the challenge, and creativity problem solving builds when tackling issues from a computer science perspective. 
+- I am a BSc Physics student interested in creating delicious code aiding in improving experimental set ups as well as performing valuable analysis on the collected data.
+- Coding is not my strongest suit but I adore the challenge, and creativity problem solving builds when tackling issues from a computer science perspective. 
 - When I'm not struggling with advanced mechanics or debugging very simple code, I love hiking 🏞️, reading about Greco-Roman history 📚, and playing piano 🎹. 
 
 ## 🌱 I'm Learning...
