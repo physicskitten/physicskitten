@@ -8,6 +8,7 @@
 ## 🌱 I'm Learning...
 ### 🌿 My Baby Projects
 - Self taught python :)
+- Multiple object tracking using the hungarian algorithm
 - Arduino controlled LED strip configurations
 - Presentation of data and analyses
 
