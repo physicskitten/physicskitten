@@ -12,6 +12,6 @@
 - Arduino controlled LED strip configurations
 - Presentation of data and analyses
 
-### 🪴 Non-Coding Languages
+### 🌿 Non-Coding Languages
 [![french flag](Assets/french-flag-round.svg)](https://www.duolingo.com/profile/plm786)
 [![chinese flag](Assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/plm786)
