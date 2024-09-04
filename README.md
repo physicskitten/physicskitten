@@ -8,10 +8,11 @@
 ## 🌱 I'm Learning...
 ### 🌿 My Baby Projects
 - Self taught python :)
-- Multiple object tracking using the hungarian algorithm
-- Arduino controlled LED strip configurations
-- Presentation of data and analyses primarily with health data such as air quality and heath disparities
+- [Multiple object tracking using the hungarian algorithm](https://github.com/physicskitten/droplet_tracker_original)
+- [Arduino controlled LED strip configurations](https://github.com/physicskitten/LED_lightstrip)
+- Presentation of data and analyses primarily with health data such as [air quality](https://github.com/physicskitten/Air-Quality-Study) and [heath disparities](https://github.com/physicskitten/Health-Disparities-Study)
 
 ### 🌿 Non-Coding Languages
 [![french flag](Assets/french-flag-round.svg)](https://www.duolingo.com/profile/plm786)
 [![chinese flag](Assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/plm786)
+
