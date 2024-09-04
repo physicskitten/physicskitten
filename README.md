@@ -8,8 +8,8 @@
 ## 🌱 I'm Learning...
 ### 🌿 My Baby Projects
 - Self taught python :)
-- [Multiple object tracking using the hungarian algorithm](https://github.com/physicskitten/droplet_tracker_original)
-- [Arduino controlled LED strip configurations](https://github.com/physicskitten/LED_lightstrip)
+- [Multiple object tracking](https://github.com/physicskitten/droplet_tracker_original) using the hungarian algorithm
+- Arduino controlled [LED strip configurations](https://github.com/physicskitten/LED_lightstrip)
 - Presentation of data and analyses primarily with health data such as [air quality](https://github.com/physicskitten/Air-Quality-Study) and [heath disparities](https://github.com/physicskitten/Health-Disparities-Study)
 
 ### 🌿 Non-Coding Languages
