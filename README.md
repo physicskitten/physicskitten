@@ -10,7 +10,7 @@
 - Self taught python :)
 - Multiple object tracking using the hungarian algorithm
 - Arduino controlled LED strip configurations
-- Presentation of data and analyses
+- Presentation of data and analyses primarily with health data such as air quality and heath disparities
 
 ### 🌿 Non-Coding Languages
 [![french flag](Assets/french-flag-round.svg)](https://www.duolingo.com/profile/plm786)
