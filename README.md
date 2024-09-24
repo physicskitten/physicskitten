@@ -10,6 +10,7 @@
 - Self taught python :)
 - [Multiple object tracking](https://github.com/physicskitten/droplet_tracker_original) using the hungarian algorithm
 - Presentation of data and analyses primarily with health data such as [patient information](https://github.com/physicskitten/Patient-Information-Study), [air quality](https://github.com/physicskitten/Air-Quality-Study) and [heath disparities](https://github.com/physicskitten/Health-Disparities-Study)
+- [Correlation Matrix Heatmap](https://github.com/physicskitten/Chemical-Compounds-Analysis) for chemical analysis and formula parser
 - Arduino controlled [LED strip configurations](https://github.com/physicskitten/LED_lightstrip)
 
 ### 🌿 Non-Coding Languages
