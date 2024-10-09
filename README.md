@@ -8,7 +8,7 @@
 ## 🌱 I'm Learning...
 ### 🌿 My Baby Projects
 - Self taught python :)
-- [Multiple object tracking](https://github.com/physicskitten/droplet_tracker_original) using the hungarian algorithm and ROI selection with complimenting [written documentation](https://drive.google.com/file/d/11-QX8NEb5vwFQukSnY2XJyiJbV_Xg-Il/view?usp=sharing).
+- [Multiple object tracking](https://github.com/physicskitten/droplet_tracker_original) using the hungarian algorithm and ROI selection with complimenting documentation such as a [formal report](https://drive.google.com/file/d/11-QX8NEb5vwFQukSnY2XJyiJbV_Xg-Il/view?usp=sharing) and summarised [poster presentation](https://drive.google.com/file/d/1MCC3CFQDR6DohqRu_8i6pBed4x-MZc2q/view?usp=sharing).
 - Presentation of data and analyses primarily with health data such as [patient information](https://github.com/physicskitten/Patient-Information-Study), [air quality](https://github.com/physicskitten/Air-Quality-Study) and [heath disparities](https://github.com/physicskitten/Health-Disparities-Study)
 - [Correlation matrix heatmap](https://github.com/physicskitten/Chemical-Compounds-Analysis) for chemical analysis and formula parser
 - Arduino controlled [LED strip configurations](https://github.com/physicskitten/LED_lightstrip)
